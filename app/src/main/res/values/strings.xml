@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practiv10</string>
+    <string name="smart">моё смарт-устройство</string>
+    <string name="todo1">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="item">TODO</string>
+    <string name="item1">TODO</string>
+    <string name="item3">TODO</string>
+    <string name="item4.1">TODO</string>
+    <string name="item4">TODO</string>
+    <string name="item5">TODO</string>
+    <string name="item6">TODO</string>
+    <string name="item7">TODO</string>
+    <string name="item8">TODO</string>
+    <string name="item9">TODO</string>
+</resources>
